@@ -73,6 +73,12 @@
 				}
 			}
 
+			> .motto {
+				font-size: 1.25em;
+				padding: initial;
+				margin: 1em 0;
+			}
+
 			> .alt {
 				background-color: darken(_palette(bg-alt), 2);
 				border-bottom: 0;
